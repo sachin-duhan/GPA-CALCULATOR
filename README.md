@@ -21,10 +21,7 @@ Note that the development build is not optimized.
 To create a production build, use npm run build.
 ~~~
 
----
-
 ## AUTHOR
-Name - Sachin Duhan 
-Institute - DTU
+- Name - Sachin Duhan 
+- Institute - DTU
 
----
