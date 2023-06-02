@@ -23,5 +23,4 @@ To create a production build, use npm run build.
 
 ## AUTHOR
 - Name - Sachin Duhan 
-- Institute - DTU
-
+- Institute - Delhi Technological University
